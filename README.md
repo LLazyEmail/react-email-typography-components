@@ -6,6 +6,24 @@
 [![npm](https://img.shields.io/npm/dt/@jaebradley/example-rollup-react-component-npm-package.svg)](https://www.npmjs.com/package/@jaebradley/example-rollup-react-component-npm-package)
 [![npm](https://img.shields.io/npm/v/@jaebradley/example-rollup-react-component-npm-package.svg)](https://www.npmjs.com/package/@jaebradley/example-rollup-react-component-npm-package)
 
+
+
+Components
+
+- Divider
+- HeadingOne
+- HeadingThree
+- Italic
+- Link
+- List
+- Paragraph
+- Separator
+- Strong
+- Subtitle
+
+![5](https://raw.githubusercontent.com/LLazyEmail/documentation/main/static/img/react/typography.jpg)
+
+
 Example `React` component "library" using [`rollup`](https://github.com/rollup/rollup) that is published to `npm`.
 
 ## `rollup` and `webpack`
